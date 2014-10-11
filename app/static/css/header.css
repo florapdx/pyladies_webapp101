@@ -1,0 +1,21 @@
+.main-nav ul {
+    width: 60%;
+    float: left;
+}
+
+.main-nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+.account-links ul {
+    width: 40%;
+    float: left;
+}
+
+.account-links ul li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}

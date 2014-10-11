@@ -1,0 +1,29 @@
+.js-clickable {
+  background: none repeat scroll 0 0 transparent;
+  border: none;
+  color: inherit;
+  font: inherit;
+  font-weight: normal;
+  overflow: visible;
+  text-transform: none;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  text-align: left;
+}
+.js-clickable:hover {
+  cursor: pointer;
+}
+.js-clickable:focus {
+  outline: none;
+}
+.js-clickable::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+.js-clickable .blue {
+  color: blue;
+  cursor: pointer;
+  -webkit-font-smoothing: antialiased;
+}
